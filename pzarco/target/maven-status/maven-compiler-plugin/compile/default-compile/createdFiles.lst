@@ -1,0 +1,5 @@
+com/example/pzarco/controladores/ControladorClientes.class
+com/example/pzarco/entidades/Cliente.class
+com/example/pzarco/PZarcoApplication.class
+com/example/pzarco/repositorios/RepositorioClientes.class
+com/example/pzarco/servicios/ServicioClientes.class
